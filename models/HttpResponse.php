@@ -74,4 +74,8 @@ class HttpResponse {
 
 		]);
 	}
+
+	public function addDanny(){
+		
+	}
 }
