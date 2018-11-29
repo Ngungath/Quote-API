@@ -1,2 +1,1 @@
-# Quote-API
-PHP BASED API FOR MY BLOG
+# quotes
